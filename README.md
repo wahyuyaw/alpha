@@ -1,15 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤBYㅤ+VnzVPN+S+T+O+R+E" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤBYㅤ+TOMKET+S+T+O+R+E" />
 </p>
-
-### ORDER/SEWA SCRIPT TUNNELING
-CONTACT:
-Telegram: t.me/xhidrolic
-Wa: wa.me/+6287763369249
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/xhidrolix/scriptvpn/main/premi.sh && chmod +x premi.sh && ./premi.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Tomketstore/aut1/main/premi.sh && chmod +x premi.sh && ./premi.sh
 ```
 
 ## UPDATE SCRIPT
