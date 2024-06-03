@@ -1,15 +1,13 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤBYㅤ+TOMKET+S+T+O+R+E" />
-</p>
+
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Tomketstore/aut1/main/premi.sh && chmod +x premi.sh && ./premi.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/hokagelegend9999/alpha/main/premi.sh && chmod +x premi.sh && ./premi.sh
 ```
 
 ## UPDATE SCRIPT
 ```
-wget -q https://raw.githubusercontent.com/Tomketstore/aut1/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/hokagelegend9999/alpha/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ### SUPPORT OS LINUX
