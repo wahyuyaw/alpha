@@ -31,11 +31,11 @@ date_list=$(date +"%Y-%m-%d" -d "$data_server")
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e " WELCOME TO TOMKET TUNNELING SCRIPT ${YELLOW}(${NC}${green}Stable Edition${NC}${YELLOW})${NC}"
+echo -e " WELCOME TO HOKAGE LEGEND VPN ${YELLOW}(${NC}${green}Stable Edition${NC}${YELLOW})${NC}"
 echo -e " PROSES PENGECEKAN IP ADDRESS ANDA !!"
 echo -e "${purple}----------------------------------------------------------${NC}"
-echo -e " ›AUTHOR : ${green}TOMKET STORE® ${NC}${YELLOW}(${NC}${green}V 3.2${NC}${YELLOW})${NC}"
-echo -e " ›TEAM 🅥🅝: TOMKET STORE ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
+echo -e " ›AUTHOR : ${green}HOKAGE LEGEND® ${NC}${YELLOW}(${NC}${green}V 3.2${NC}${YELLOW})${NC}"
+echo -e " ›TEAM 🅥🅝: HOKAGE LEGEND ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
@@ -88,7 +88,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/Tomketstore/aut1/main/"
+    REPO="https://raw.githubusercontent.com/hokagelegend9999/alpha/main"
 
 ####
 start=$(date +%s)
@@ -275,7 +275,7 @@ curl "ipinfo.io/city?token=7a814b6263b02c" > /root/.city
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/Tomketstore/izin/main/ip"
+izinsc="https://raw.githubusercontent.com/hokagelegend9999/ijin/main/alpha"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
@@ -538,7 +538,7 @@ print_success "Password SSH"
 function udp_mini(){
 clear
 print_install "Memasang Service Limit IP & Quota"
-wget -q https://raw.githubusercontent.com/Tomketstore/aut1/main/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
+wget -q https://raw.githubusercontent.com/hokagelegend9999/alpha/main/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
 
 # // Installing UDP Mini
 mkdir -p /usr/local/kyt/
@@ -600,7 +600,7 @@ print_success "Dropbear"
 function ins_udpSSH(){
 clear
 print_install "Menginstall Udp-custom"
-wget -q https://raw.githubusercontent.com/zhets/project/main/ssh/udp-custom.sh
+wget -q https://raw.githubusercontent.com/hokagelegend9999/alpha/main/udp-custom/udp-custom.sh
 chmod +x udp-custom.sh 
 bash udp-custom.sh
 rm -fr udp-custom.sh
@@ -1015,7 +1015,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ SCRIPT BY VILLAIN TUNNEL ]-==============="
+echo "===============-[ SCRIPT BY HOKAGE LEGEND ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
