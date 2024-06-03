@@ -1,1 +1,0 @@
-### INI ADALAH KONTOL MALING 𓂸
