@@ -45,6 +45,7 @@ res1() {
     rm -rf addss
     rm -rf menu-backup
     rm -rf backup
+    rm -rf kontol
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/menu
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/m-sshws
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/addssh
@@ -52,6 +53,7 @@ res1() {
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/addss
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/menu-backup
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/backup
+    wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/regis
     chmod +x menu
     chmod +x m-sshws
     chmod +x addssh
@@ -59,6 +61,8 @@ res1() {
     chmod +x addss
     chmod +x menu-backup
     chmod +x backup
+    chmod +x regis
+    
    
 }
 function noobzvpn() {
