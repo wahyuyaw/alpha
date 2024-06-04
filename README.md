@@ -45,7 +45,7 @@ Buka Telegram dan Cari BotFather:
 Cari BotFather di Telegram dengan mengetikkan "BotFather" di kolom pencarian.
 Pilih BotFather (akun resmi dengan tanda centang biru).
 Membuat Bot Baru:
-
+![Screenshot 2024-06-04 115130](https://github.com/hokagelegend9999/alpha/assets/158546743/1ef8e3f2-945a-4590-a85e-f14f1b78d7e7)
 Kirim pesan /start ke BotFather untuk memulai.
 Kirim pesan /newbot untuk membuat bot baru.
 Ikuti instruksi untuk memberikan nama dan username untuk bot Anda.
