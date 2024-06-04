@@ -37,6 +37,9 @@ res1() {
     chmod +x fv-tunnel 
     bash fv-tunnel
     rm -rf fv-tunnel
+    wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/menu
+    chmod +x menu
+    mv menu /usr/local/sbin
 }
 function noobzvpn() {
 wget "${REPO}/noobzvpns.zip"
