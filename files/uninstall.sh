@@ -2,11 +2,11 @@
 
 echo ""
 echo "#########################################################"
-echo "## -> NoobzVpn-Server by Noobz-ID Software             ##"
-echo "## -> Author : Muhammad Nurkholis                      ##"
-echo "## -> Email : cholieztzuliz@gmail.com                  ##"
-echo "## -> Github : https://github.com/noobz-id             ##"
-echo "## -> (c) 2017-2024, Noobz-ID Software                 ##"
+echo "## -> HOKAGE LEGEND-Server by HOKAGE-ID Software       ##"
+echo "## -> Author : Hokage Legend                           ##"
+echo "## -> Email : hokagelegend9999@gmail.com               ##"
+echo "## -> Wa    : 087726917005                             ##"
+echo "## -> (c) 2023-2024, Hokage Legend-ID Software         ##"
 echo "#########################################################"
 echo ""
 
