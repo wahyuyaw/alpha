@@ -38,18 +38,27 @@ res1() {
     bash fv-tunnel
     rm -rf fv-tunnel
     cd /usr/local/sbin
+    rm -rf menu
+    rm -rf m-sshws
+    rm -rf addssh
+    rm -rf addtr
+    rm -rf addss
+    rm -rf menu-backup
+    rm -rf backup
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/menu
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/m-sshws
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/addssh
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/addtr
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/addss
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/menu-backup
+    wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/backup
     chmod +x menu
     chmod +x m-sshws
     chmod +x addssh
     chmod +x addtr
     chmod +x addss
     chmod +x menu-backup
+    chmod +x backup
    
 }
 function noobzvpn() {
