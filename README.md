@@ -37,3 +37,16 @@ Silahkan Restart Service.
 Jika Statsus Service Masih Off
 Silahkan Reboot vps kalian
 ```
+
+
+Langkah 1: Membuat Bot di Telegram
+Buka Telegram dan Cari BotFather:
+
+Cari BotFather di Telegram dengan mengetikkan "BotFather" di kolom pencarian.
+Pilih BotFather (akun resmi dengan tanda centang biru).
+Membuat Bot Baru:
+
+Kirim pesan /start ke BotFather untuk memulai.
+Kirim pesan /newbot untuk membuat bot baru.
+Ikuti instruksi untuk memberikan nama dan username untuk bot Anda.
+Setelah selesai, BotFather akan memberikan token API bot. Simpan token ini karena akan digunakan dalam skrip Anda.
