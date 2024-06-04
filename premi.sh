@@ -311,8 +311,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="--1002133198810"
-KEY="6439154959:AAGVPEv_3QJO6qT07tLkcKMyzTSOyWxssXk"
+CHATID="1469244768"
+KEY="7035119506:AAEatu58omJunqReXanKi1mRZZgAcFkE7XQ"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 ISP=$(cat /root/.isp)
 CITY=$(cat /root/.city)
@@ -1019,7 +1019,7 @@ echo "===============-[ SCRIPT BY HOKAGE LEGEND ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
-echo "TOLOL"
+echo "Semuanya Berjalan Ok...!!"
 sleep 1
 echo -ne "[ ${yell}COMPLETED${NC} ] PENGINSTALAN SCRIPT SELESAI? "
 reboot
