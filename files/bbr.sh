@@ -1,7 +1,7 @@
 #!/bin/bash
 # Edition : Stable Edition V3.0
-# Auther  : Tomket
-# (C) Copyright 2023
+# Auther  : Hokage Legend
+# (C) Copyright 2024
 # =========================================
 
 red='\e[1;31m'
