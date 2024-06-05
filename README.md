@@ -55,5 +55,8 @@ Setelah selesai, BotFather akan memberikan token API bot. Simpan token ini karen
 
 - Siapkan Juga Chat ID Telegram atau User Id telegram Untuk menggunakan bot Telegram
 - Buka aplikasi Telegram dan cari bot bernama "Userinfobot" atau "Get_id_bot".
+- 
+  ![Screenshot 2024-06-05 082241](https://github.com/hokagelegend9999/alpha/assets/158546743/e97b1869-a38a-4899-a5fb-3a6b331b3558)
+
 Klik "Start" untuk memulai bot.
 Bot akan secara otomatis mengirimkan pesan berisi chat ID kamu.
