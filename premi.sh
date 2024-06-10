@@ -704,10 +704,10 @@ print_success "Swap 1 G"
 function ins_Fail2ban(){
 clear
 print_install "Menginstall Fail2ban"
-#apt -y install fail2ban > /dev/null 2>&1
-#sudo systemctl enable --now fail2ban
-#/etc/init.d/fail2ban restart
-#/etc/init.d/fail2ban status
+apt -y install fail2ban > /dev/null 2>&1
+sudo systemctl enable --now fail2ban
+/etc/init.d/fail2ban restart
+/etc/init.d/fail2ban status
 
 # Instal DDOS Flate
 if [ -d '/usr/local/ddos' ]; then
@@ -771,6 +771,7 @@ function noobzvpn(){
 clear
 wget "${REPO}/noobzvpns.zip"
 unzip noobzvpns.zip
+cd noobzvpns
 bash install.sh
 rm noobzvpns.zip
 systemctl restart noobzvpns
