@@ -54,6 +54,7 @@ res1() {
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/menu-backup
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/backup
     wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/regis
+    wget https://raw.githubusercontent.com/hokagelegend9999/alpha/main/menu/addhost
     chmod +x menu
     chmod +x m-sshws
     chmod +x addssh
@@ -62,6 +63,7 @@ res1() {
     chmod +x menu-backup
     chmod +x backup
     chmod +x regis
+    chmod +x addhost
     
    
 }
