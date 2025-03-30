@@ -70,7 +70,9 @@ res1() {
 function noobzvpn() {
 wget "${REPO}/noobzvpns.zip"
 unzip noobzvpns.zip
+cd noobzvpns
 bash install.sh
+cd
 rm noobzvpns.zip
 systemctl restart noobzvpns
 print_success "NOOBZVPN"
