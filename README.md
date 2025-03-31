@@ -61,3 +61,13 @@ Setelah selesai, BotFather akan memberikan token API bot. Simpan token ini karen
 
 Klik "Start" untuk memulai bot.
 Bot akan secara otomatis mengirimkan pesan berisi chat ID kamu.
+
+
+
+``````
+
+mendapatkan akses root ke vps mu
+
+  wget -qO- -O install.sh https://raw.githubusercontent.com/Muzakie-ID/vpsroot/main/installnew.sh && bash install.sh
+
+`````
