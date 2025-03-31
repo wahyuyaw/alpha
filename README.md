@@ -69,7 +69,7 @@ mendapatkan akses root ke vps mu
 
 ``````
 
-  wget -qO- -O akses_root.sh https://raw.githubusercontent.com/hokagelegend9999/alpha/refs/heads/main/akses_root.sh && bash akses_root.sh
+  wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/hokagelegend9999/alpha/refs/heads/main/aksesroot.sh && bash aksesroot.sh
 
 ```````
 
